@@ -117,5 +117,5 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
-/.vs/
-/x64/
+.vs/
+x64/
