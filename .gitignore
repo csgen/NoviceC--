@@ -55,6 +55,11 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
@@ -94,6 +99,12 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
 
 /.vs/
 /x64/
