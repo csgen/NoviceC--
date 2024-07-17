@@ -106,5 +106,16 @@ ipch/
 *.vspx
 *.sap
 
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
 /.vs/
 /x64/
