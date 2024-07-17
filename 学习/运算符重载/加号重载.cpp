@@ -50,8 +50,8 @@ void test01() {
 	cout << "p4.m_B=" << p4.m_B << endl;
 }
 
-int main() {
-	test01();
-
-	system("pause");
-}
+//int main() {
+//	test01();
+//
+//	system("pause");
+//}
