@@ -35,11 +35,11 @@ void test03() {
 	cout << ++myint << endl;
 }
 
-int main() {
-
-	test03();
-
-	system("pause");
-
-	return 0;
-}
+//int main() {
+//
+//	test03();
+//
+//	system("pause");
+//
+//	return 0;
+//}
