@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="加号重载.cpp" />
     <ClCompile Include="左移运算符重载.cpp" />
+    <ClCompile Include="重载赋值运算符.cpp" />
     <ClCompile Include="重载递增运算符.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
