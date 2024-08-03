@@ -22,9 +22,3 @@ void test08() {
 	s.m_Age = 10;
 	cout << s.m_Age << endl;
 }
-
-int main() {
-	test08();
-	system("pause");
-	return 0;
-}
