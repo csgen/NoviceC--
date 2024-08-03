@@ -24,5 +24,11 @@
     <ClCompile Include="类对象作为类成员.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="菱形继承问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
