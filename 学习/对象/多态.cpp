@@ -3,9 +3,10 @@ using namespace std;
 
 class Animal {
 public:
-	virtual void Speak() {
+	/*virtual void Speak() {
 		cout << "Animal speaks" << endl;
-	}
+	}*/
+	virtual void Speak() = 0;// 纯虚函数
 };
 
 class Cat : public Animal {
