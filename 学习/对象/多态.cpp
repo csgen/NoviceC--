@@ -25,8 +25,3 @@ void test09() {
 	DoSpeak(cat);
 }
 
-int main() {
-	test09();
-	system("pause");
-	return 0;
-}

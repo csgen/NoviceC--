@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="多态.cpp" />
+    <ClCompile Include="组装电脑案例.cpp" />
     <ClCompile Include="继承.cpp" />
     <ClCompile Include="初始化列表.cpp" />
     <ClCompile Include="类对象作为类成员.cpp" />
