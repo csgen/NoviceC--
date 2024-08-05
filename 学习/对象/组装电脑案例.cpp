@@ -144,8 +144,8 @@ void test10() {
 }
 
 
-int main() {
-	test10();
-	system("pause");
-	return 0;
-}
+//int main() {
+//	test10();
+//	system("pause");
+//	return 0;
+//}

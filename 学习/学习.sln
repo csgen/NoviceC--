@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象", "对象\对象.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "运算符重载", "运算符重载\运算符重载.vcxproj", "{FE08CDFE-9FB7-4C55-AEB4-1DC33A634B8D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作", "文件操作\文件操作.vcxproj", "{9272C57A-9A98-47EB-8189-63C7CEF9ED49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FE08CDFE-9FB7-4C55-AEB4-1DC33A634B8D}.Release|x64.Build.0 = Release|x64
 		{FE08CDFE-9FB7-4C55-AEB4-1DC33A634B8D}.Release|x86.ActiveCfg = Release|Win32
 		{FE08CDFE-9FB7-4C55-AEB4-1DC33A634B8D}.Release|x86.Build.0 = Release|Win32
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Debug|x64.ActiveCfg = Debug|x64
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Debug|x64.Build.0 = Debug|x64
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Debug|x86.ActiveCfg = Debug|Win32
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Debug|x86.Build.0 = Debug|Win32
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Release|x64.ActiveCfg = Release|x64
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Release|x64.Build.0 = Release|x64
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Release|x86.ActiveCfg = Release|Win32
+		{9272C57A-9A98-47EB-8189-63C7CEF9ED49}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
