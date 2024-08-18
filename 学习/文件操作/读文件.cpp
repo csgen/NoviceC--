@@ -45,7 +45,7 @@ void readTest() {
 	ifs.close();
 }
 
-int main()
-{
-	readTest();
-}
+//int main()
+//{
+//	readTest();
+//}
